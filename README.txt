@@ -1,0 +1,1 @@
+This is a template created in HTML and CSS for a tourist website or an organization engaged in booking hotel rooms. If someone wants to use this template for their own purposes, they can replace the pictures, links and titles in it with their own. The basic optimization of this template for search engines was made by me.
